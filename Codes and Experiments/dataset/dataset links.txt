@@ -1,0 +1,14 @@
+LINK: https://drive.google.com/drive/folders/1fJwT1mUSElQlqu1ocIn1i8SQbZFioSnJ?usp=sharing
+
+In this link you will find the following datasets (videos splitted and converted to .npy and zipped in .tar format)
+
+RWF-2000:
+	rwf2000processed32framesTest.tar
+	rwf2000processed32framesTrainFight.tar-aa
+	rwf2000processed32framesTrainFight.tar-ab	
+	rwf2000processed32framesTrainNonFight.tar-aa
+	rwf2000processed32framesTrainNonFight.tar-ab
+
+Hockey and Movies:
+	hockeyMoviesProcessed.tar
+
